@@ -7,4 +7,4 @@ This app use internet only to download videos, this application doesn´t connect
 ## Requiriments
 You only need to install pytube
 
-`pip install pytube`
+```pip install pytube```
